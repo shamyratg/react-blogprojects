@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <TopBar />
+      <TopBar />
     <Home/>
       {/* <Single/> */}
     </div>
